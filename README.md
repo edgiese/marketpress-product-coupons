@@ -36,7 +36,7 @@ _In the above example, the recipe-book product must be present, with at least on
     Product = recipe-book;video-*;2,5,9
     Message = You must purchase the recipe book and at least one video to use this coupon
 
-_In the above example, the recipe-book product must be present, with at least one of video-1, video-2, or video-3.  If one video is chosen, it is $2 off, if two are chosen, it is $5 off, if three chosen, it is $9 off._
+_In the above example, the recipe-book product must be present, with at least one of video-1, video-2, or video-3.  If only the book is present, then it is $2 off, if the book and one video is chosen, it is $5 off, if the book and two or more videos are chosen, it is $9 off._
 
 
     
